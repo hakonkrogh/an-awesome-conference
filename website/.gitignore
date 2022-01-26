@@ -30,5 +30,5 @@ jspm_packages/
 # Vercel deployment settings
 .vercel
 
-	# Next build output
-	.next
+# Next build output
+.next
